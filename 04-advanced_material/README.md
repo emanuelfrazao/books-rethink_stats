@@ -1,0 +1,1 @@
+chapters 13, 14, 15, 16 from **STATISTICAL RETHINKING**
